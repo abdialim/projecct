@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header-ph2{
+    text-align: right;
+}
+@font-face {
+    font-family: "PostNo Regular";
+    src: url('./fonts/PostNoBillsJaffna-Regular.woff');
+}
+
+@font-face {
+    font-family: "PostNo Medium";
+    src: url('./fonts/PostNoBillsJaffna-Medium.woff');
+}
+
+@font-face {
+    font-family: "PostNo SemiBold";
+    src: url('./fonts/PostNoBillsJaffna-SemiBold.woff');
+}
+
+@font-face {
+    font-family: "PostNo Bold";
+    src: url('./fonts/PostNoBillsJaffna-Bold.woff');
+}
